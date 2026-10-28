@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="128" viewBox="0 0 400 128" role="img" aria-label="simple-screen-recorder: Minimal Linux screen capture CLI for Wayland and desktop portals.">
+  <rect x="0.75" y="0.75" width="398.5" height="126.5" rx="8" fill="#151b23" stroke="#3d444d" stroke-width="1.5"/>
+  <g fill="none" stroke="#9198a1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+    <path d="M355 23.5h16a2 2 0 0 1 2 2v13a2 2 0 0 1-2 2h-16a2 2 0 0 1-2-2v-13a2 2 0 0 1 2-2z"/>
+    <path d="M358 28h10M358 33h7"/>
+  </g>
+  <text x="20" y="34" font-size="17" font-weight="600" fill="#4493f8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">simple-screen-recorder</text>
+  <text x="20" y="62" font-size="13" fill="#9198a1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Minimal Linux screen capture CLI</text>
+  <text x="20" y="81" font-size="13" fill="#9198a1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">for Wayland and desktop portals.</text>
+  <circle cx="25" cy="108" r="5" fill="#dea584"/>
+  <text x="36" y="112" font-size="12" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Rust</text>
+  <text x="380" y="112" text-anchor="end" font-size="12" fill="#9198a1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">gqgs</text>
+</svg>
