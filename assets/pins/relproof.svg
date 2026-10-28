@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="128" viewBox="0 0 400 128" role="img" aria-label="relproof: Python-like relational queries with explicit, verifiable semantics.">
+  <rect x="0.75" y="0.75" width="398.5" height="126.5" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+  <g fill="none" stroke="#57606a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+    <path d="M355 23.5h16a2 2 0 0 1 2 2v13a2 2 0 0 1-2 2h-16a2 2 0 0 1-2-2v-13a2 2 0 0 1 2-2z"/>
+    <path d="M358 28h10M358 33h7"/>
+  </g>
+  <text x="20" y="34" font-size="17" font-weight="600" fill="#0969da" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">relproof</text>
+  <text x="20" y="62" font-size="13" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Python-like relational queries with</text>
+  <text x="20" y="81" font-size="13" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">explicit, verifiable semantics.</text>
+  <circle cx="25" cy="108" r="5" fill="#8957e5"/>
+  <text x="36" y="112" font-size="12" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Concept</text>
+  <text x="380" y="112" text-anchor="end" font-size="12" fill="#8c959f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">gqgs</text>
+</svg>
