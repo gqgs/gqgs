@@ -1,8 +1,6 @@
 <!-- Locally hosted SVG cards: no third-party image service or live statistics. -->
 ## Simple tools
 
-A small, efficient, simple utilities.
-
 <p align="center">
   <a href="https://github.com/gqgs/simple-image-viewer"><img src="assets/pins/simple-image-viewer.svg" alt="simple-image-viewer GitHub repository" width="400" /></a>
   <a href="https://github.com/gqgs/simple-pdf-viewer"><img src="assets/pins/simple-pdf-viewer.svg" alt="simple-pdf-viewer GitHub repository" width="400" /></a>
@@ -10,8 +8,6 @@ A small, efficient, simple utilities.
 </p>
 
 ## FUSE
-
-Userspace filesystem experiments.
 
 <p align="center">
   <a href="https://github.com/gqgs/httpfs"><img src="assets/pins/httpfs.svg" alt="httpfs GitHub repository" width="400" /></a>
@@ -21,7 +17,6 @@ Userspace filesystem experiments.
 
 ## PoC
 
-Early-stage ideas.
 
 <p align="center">
   <a href="https://github.com/gqgs/hololearn"><img src="assets/pins/hololearn.svg" alt="hololearn GitHub repository" width="400" /></a>
