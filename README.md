@@ -8,6 +8,8 @@
   <a href="https://github.com/gqgs/simple-pdf-viewer#gh-dark-mode-only"><img src="assets/pins/simple-pdf-viewer-dark.svg#gh-dark-mode-only" alt="simple-pdf-viewer GitHub repository" width="400" /></a>
   <a href="https://github.com/gqgs/simple-screen-recorder#gh-light-mode-only"><img src="assets/pins/simple-screen-recorder.svg#gh-light-mode-only" alt="simple-screen-recorder GitHub repository" width="400" /></a>
   <a href="https://github.com/gqgs/simple-screen-recorder#gh-dark-mode-only"><img src="assets/pins/simple-screen-recorder-dark.svg#gh-dark-mode-only" alt="simple-screen-recorder GitHub repository" width="400" /></a>
+  <a href="https://github.com/gqgs/vault#gh-light-mode-only"><img src="assets/pins/vault.svg#gh-light-mode-only" alt="vault GitHub repository" width="400" /></a>
+  <a href="https://github.com/gqgs/vault#gh-dark-mode-only"><img src="assets/pins/vault-dark.svg#gh-dark-mode-only" alt="vault GitHub repository" width="400" /></a>
 </p>
 
 ## FUSE
