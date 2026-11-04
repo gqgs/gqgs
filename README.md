@@ -12,6 +12,15 @@
   <a href="https://github.com/gqgs/vault#gh-dark-mode-only"><img src="assets/pins/vault-dark.svg#gh-dark-mode-only" alt="vault GitHub repository" width="400" /></a>
 </p>
 
+## Music
+
+<p align="left">
+  <a href="https://github.com/gqgs/apple-music-bridge#gh-light-mode-only"><img src="assets/pins/apple-music-bridge.svg#gh-light-mode-only" alt="apple-music-bridge GitHub repository" width="400" /></a>
+  <a href="https://github.com/gqgs/apple-music-bridge#gh-dark-mode-only"><img src="assets/pins/apple-music-bridge-dark.svg#gh-dark-mode-only" alt="apple-music-bridge GitHub repository" width="400" /></a>
+  <a href="https://github.com/gqgs/coachella#gh-light-mode-only"><img src="assets/pins/coachella.svg#gh-light-mode-only" alt="coachella GitHub repository" width="400" /></a>
+  <a href="https://github.com/gqgs/coachella#gh-dark-mode-only"><img src="assets/pins/coachella-dark.svg#gh-dark-mode-only" alt="coachella GitHub repository" width="400" /></a>
+</p>
+
 ## FUSE
 
 <p align="left">
