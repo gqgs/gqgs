@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="128" viewBox="0 0 400 128" role="img" aria-label="strange-focus: Chaos-inspired task selection, focus sessions, and automatic tab attraction.">
+  <rect x="0.75" y="0.75" width="398.5" height="126.5" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+  <g fill="none" stroke="#57606a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+    <rect x="352.5" y="23.5" width="21" height="17" rx="2.5"/>
+    <path d="M353 28.5h20"/>
+    <path d="M357.5 26h.1M362 26h.1"/>
+    <path d="M358 33h9"/>
+  </g>
+  <text x="20" y="34" font-size="17" font-weight="600" fill="#0969da" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">strange-focus</text>
+  <text x="20" y="62" font-size="13" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Chaos-inspired focus sessions,</text>
+  <text x="20" y="81" font-size="13" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">stochastic tasks and tab attraction.</text>
+  <circle cx="25" cy="108" r="5" fill="#f1e05a"/>
+  <text x="36" y="112" font-size="12" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">JavaScript</text>
+  <text x="380" y="112" text-anchor="end" font-size="12" fill="#8c959f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">gqgs</text>
+</svg>

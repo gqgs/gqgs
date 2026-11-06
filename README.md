@@ -12,6 +12,15 @@
   <a href="https://github.com/gqgs/vault#gh-dark-mode-only"><img src="assets/pins/vault-dark.svg#gh-dark-mode-only" alt="vault GitHub repository" width="400" /></a>
 </p>
 
+## Browser extensions
+
+<p align="left">
+  <a href="https://github.com/gqgs/strange-focus#gh-light-mode-only"><img src="assets/pins/strange-focus.svg#gh-light-mode-only" alt="strange-focus GitHub repository" width="400" /></a>
+  <a href="https://github.com/gqgs/strange-focus#gh-dark-mode-only"><img src="assets/pins/strange-focus-dark.svg#gh-dark-mode-only" alt="strange-focus GitHub repository" width="400" /></a>
+  <a href="https://github.com/gqgs/yt-recs-but-good#gh-light-mode-only"><img src="assets/pins/yt-recs-but-good.svg#gh-light-mode-only" alt="yt-recs-but-good GitHub repository" width="400" /></a>
+  <a href="https://github.com/gqgs/yt-recs-but-good#gh-dark-mode-only"><img src="assets/pins/yt-recs-but-good-dark.svg#gh-dark-mode-only" alt="yt-recs-but-good GitHub repository" width="400" /></a>
+</p>
+
 ## Music
 
 <p align="left">
