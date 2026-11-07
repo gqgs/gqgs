@@ -49,4 +49,6 @@
   <a href="https://github.com/gqgs/hololearn#gh-dark-mode-only"><img src="assets/pins/hololearn-dark.svg#gh-dark-mode-only" alt="hololearn GitHub repository" width="400" /></a>
   <a href="https://github.com/gqgs/relproof#gh-light-mode-only"><img src="assets/pins/relproof.svg#gh-light-mode-only" alt="relproof GitHub repository" width="400" /></a>
   <a href="https://github.com/gqgs/relproof#gh-dark-mode-only"><img src="assets/pins/relproof-dark.svg#gh-dark-mode-only" alt="relproof GitHub repository" width="400" /></a>
+  <a href="https://github.com/gqgs/yt-dlp-but-good#gh-light-mode-only"><img src="assets/pins/yt-dlp-but-good.svg#gh-light-mode-only" alt="yt-dlp-but-good GitHub repository" width="400" /></a>
+  <a href="https://github.com/gqgs/yt-dlp-but-good#gh-dark-mode-only"><img src="assets/pins/yt-dlp-but-good-dark.svg#gh-dark-mode-only" alt="yt-dlp-but-good GitHub repository" width="400" /></a>
 </p>
